@@ -8,7 +8,7 @@ export default new Vuex.Store({
   state: {
     productList:[
       {
-        title:"食品",
+        title:"Food",
         produc:[
           {
             name:"青椰子汁饮料（含椰子果肉）",
@@ -38,7 +38,7 @@ export default new Vuex.Store({
         id:0
       },
       {
-        title:"玩具",
+        title:"Toys",
         produc:[
           {
             name:"PORORO啵乐乐系列 啵乐乐马戏团绕珠",
@@ -68,7 +68,7 @@ export default new Vuex.Store({
         id:1
       },
       {
-        title:"化妆品面膜",
+        title:"Cosmetics",
         produc:[
           {
             name:"中国台湾TIMELESS TRUTH MASK 提提研 瞬白酷凉黑面膜",
@@ -98,7 +98,7 @@ export default new Vuex.Store({
         id:2
       },
       {
-        title:"保洁用品",
+        title:"Cleaning Supplies",
         produc:[
           {
             name:"日本*一级帮厨房卷紙4卷50张",
@@ -128,7 +128,7 @@ export default new Vuex.Store({
         id:3
       },
       {
-        title:"原材料",
+        title:"Raw Material",
         produc:[
           {
             name:"优能聚烯烃 HMV111",
@@ -162,66 +162,66 @@ export default new Vuex.Store({
     enterprise:[
       {
         left:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Shenzhen BADA Logistics Co",
+          text:"Shenzhen BADA Logistics Co., Ltd(BADA), formerly known as Shenzhen Foreign Trade and Development Company, was established in 1987. It is a new e-commerce supply chain service company with internet plus foreign trade, a pilot enterprise of comprehensive foreign trade service in Guangdong Province, a key foreign trade enterprise in Shenzhen, anExpress enterprise of Shenzhen government, and a senior certification enterprise of customs AEO.",
+          logo:"http://badachina.com/icbc/static/img/logo-01.jpg"
         },
         right:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Beijing Xinku Network Technology Co",
+          text:"Beijing Xinku Network Technology Co., Ltd. was established in 2011 with a registered capital of 10 million yuan. It is headquartered in Beijing, mainly engaged in software development, advertising promotion, sales and wholesale of mobile communication products.",
+          logo:"http://badachina.com/icbc/static/img/logo-02.jpg"
         },
         id:0
       },
       {
         left:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Nanjiang County Mt.GuangwuForestry Co",
+          text:"The Nanjiang County Mt. GuangwuForestry Co., Ltd. is a modern agricultural enterprise that integrates planting, production, research, and sales with the entire industrial chain. The company specializes in developing rare plants -- cultivating Cyclocarya paliurus and Phyllostachys chinensis as oil crops,and conducting research, development, and production oftheir biological products.",
+          logo:"http://badachina.com/icbc/static/img/logo-03.jpg"
         },
         right:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Shenzhen Lexiang Umbrella Industry Co",
+          text:"Shenzhen Lexiang Umbrella Industry Co., Ltd. sells wholesale umbrellas to the consumer market and enjoys a high position among consumers. The company has established long-term and stable cooperative relations with many retailers and agents.  Shenzhen Lexiang Umbrella Industry Co., Ltd. distributes a wide range of umbrellas with reasonable prices.  Shenzhen Lexiang Umbrella Industry Co., Ltd. ",
+          logo:"http://badachina.com/icbc/static/img/logo-04.jpg"
         },
         id:1
       },
       {
         left:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Sichuan Liangyuan Food Co",
+          text:"Sichuan Liangyuan Food Co., Ltd. is located in Dongyu Industrial Park, Nanjiang County, Bazhong City, Sichuan Province. The company takes Nanjiang, Sichuan, one of the top five high-quality walnut producing areas in China, as the raw material collection place, and focuses on the development of high-end walnut products of the whole series. With a total investment of 200 million yuan, the project covers an area of 30 mu and is divided into three phases. At present, two wood oil production lines have been completed.",
+          logo:"http://badachina.com/icbc/static/img/logo-05.jpg"
         },
         right:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Shenzhen Ruidatong Supply Chain Co",
+          text:"Shenzhen Ruidatong Supply Chain Co., Ltd is a professional enterprise who devotes to the integration of supply chain. With flexible alliance strategies, the company is in alliance with each excellent manufacturing enterprise and is providing quality product customization service to overseas buyers. Company’s current products mainly include electronics and packaging & printing products.",
+          logo:"http://badachina.com/icbc/static/img/logo-06.jpg"
         },
         id:2
       },
       {
         left:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Taiyi Honey Industry Co",
+          text:"Taiyi Honey Industry Co., Ltd is located in Wanyuan City; it is an innovative enterprise integrated the protection of bee germplasm resources, beekeeping training, production and sales of honeybee. The company supplies natural and healthy honey products.",
+          logo:"http://badachina.com/icbc/static/img/logo-07.jpg"
         },
         right:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Shenzhen Xiongsheng Import and Export Co",
+          text:"Shenzhen Xiongsheng Import and Export Co. , Ltd. is a collection of ecology, grading, inspection, warehousing and sales of eggs of integrated private enterprises. Since the company was founded, the company has been adhering to the quality first, user first, reputation-oriented, focus on management purposes, long-term supply of high-quality eggs for Hong Kong and Macao, has been unanimously praised by our customers.",
+          logo:"http://badachina.com/icbc/static/img/logo-08.jpg"
         },
         id:3
       },
       {
         left:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"Brief Introduction ofYunyang Yunshan Agricultural Development Co",
+          text:"“The three gorges gerbera” of Yunshan Agriculture is produced by national organic chrysanthemum comprehensive cultivation standardized demonstration in Yunyang county, Chongqin. Located in 30 degrees north latitude, the production area of “The three gorges gerbera” is richly endowed by nature, it is generally grow in the altitude of 600-1200 meters with rich soil, rainwater and sunshine, which organically certificated by China, European Union, America and Japan.",
+          logo:"http://badachina.com/icbc/static/img/logo-09.jpg"
         },
         right:{
-          name:"深圳市八达物流股份有限公司",
-          text:"深圳市八达物流股份有限公司（简称：BADA；原名：深圳外贸八达企业开发公司）于1987年经深圳市政府批准成立，是互联网+外贸的新型电子商务供应链服务企业、广东省外贸综合服务试点企业、深圳市重点外贸企业、深圳市政府直通车企业、海关AEO高级认证企业。",
-          logo:"static/img/bada.6fd40818.jpg"
+          name:"",
+          text:"",
+          logo:"http://badachina.com/icbc/static/img/bai.jpg"
         },
         id:4
       },
