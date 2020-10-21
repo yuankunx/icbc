@@ -30,11 +30,11 @@
 </script>
 <style scoped>
 .icbc-box{margin: 30px 0;}
-.icbc-enterprise{ width: 1190px; height: 200px; background-color: #fff; margin-bottom: 20px; border-radius: 5px;}
-.icbc-enterprise .enterprise-box{width: 594px; height: 200px; box-sizing: border-box; padding: 30px;}
+.icbc-enterprise{ width: 1190px; overflow: hidden; background-color: #fff; margin-bottom: 20px; border-radius: 5px;}
+.icbc-enterprise .enterprise-box{width: 594px; overflow: hidden; box-sizing: border-box; padding: 30px;}
 .icbc-enterprise .enterprise-box img{width: 120px; height: 120px; float: left; margin-right: 20px;}
 .icbc-enterprise .enterprise-box .enterprise-text{ width: 394px; float: left;}
 .icbc-enterprise .enterprise-box .enterprise-text h1{color: #fb5b02; padding-bottom: 10px; font-size: 18px;}
 .icbc-enterprise .enterprise-box .enterprise-text p{line-height: 24px;}
-.icbc-enterprise .enterprise-line{width: 1px; height: 115px; background-color: #dadada; float: left; margin-top: 40px;}
+.icbc-enterprise .enterprise-line{width: 1px; height: 210px; background-color: #dadada; float: left; margin-top: 40px;}
 </style>

@@ -3,9 +3,9 @@
     <div class="kht-banner"></div>
     <div class="box">
       <div class="icbc-nav">
-        <router-link tag="div" class="nav-box" to="/icbc">★ 产品展示 ★</router-link>
-        <router-link tag="div" class="nav-box" to="/icbc/enterprise">★ 企业展示 ★</router-link>
-        <router-link tag="div" class="nav-box" to="/icbc/crossBorder">★ 跨境收款 ★</router-link>
+        <router-link tag="div" class="nav-box" to="/icbc">★  Products ★</router-link>
+        <router-link tag="div" class="nav-box" to="/icbc/enterprise">★ Companies ★</router-link>
+        <router-link tag="div" class="nav-box" to="/icbc/crossBorder">★ Cross Border Collection ★</router-link>
       </div>
       <router-view class="router-view" />
     </div>
@@ -31,7 +31,7 @@ export default {
   width: 100%;
   min-width: 1190px;
   height: 500px;
-  background: url(./images/banner.jpg) no-repeat center top;
+  background: url(./images/banner-en.jpg) no-repeat center top;
 }
 .icbc-nav{
   width: 1190px;
@@ -45,7 +45,7 @@ export default {
   float: left;
   text-align: center;
   line-height: 112px;
-  font-size: 30px;
+  font-size: 26px;
   color: #b14700;
   cursor: pointer;
   font-weight: bold;

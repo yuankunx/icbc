@@ -8,7 +8,7 @@
              <div class="product-info">
                 <div class="product-title"><a :href="product.url" target="_blank">{{product.name}}</a></div>
                 <div class="product-price">{{product.price}}</div>
-                <div class="Price-btn"><a :href="product.url" class="btn" target="_blank">点击抢购</a></div>
+                <div class="Price-btn"><a :href="product.url" class="btn" target="_blank">Buy Now</a></div>
              </div> 
           </div>
       </div>
@@ -41,7 +41,7 @@
     -webkit-box-orient: vertical;}
 .icbc-list .list-box .product-box .product-info .product-price{height: 40px; line-height: 40px; font-size: 16px; color: #ff4e53;}
 .icbc-list .list-box .product-box .product-info .Price-btn{margin-top: 15px;}
-.icbc-list .list-box .product-box .product-info .Price-btn .btn{padding: 6px 92px; background-color: #ff4e53; color: #fff; border: none;
+.icbc-list .list-box .product-box .product-info .Price-btn .btn{padding: 6px 90px; background-color: #ff4e53; color: #fff; border: none;
 border-radius: 5px; text-decoration: none;}
 .left-nav{width: 150px; overflow: hidden; font-size: 16px; position: fixed; top: 500px; left: 0; background-color: #fb5b02; text-align: center;}
 .left-nav li{height: 40px; line-height: 40px;}
