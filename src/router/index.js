@@ -1,28 +1,50 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+
+//路由懒加载
+const Home = () => import('../views/Home.vue')
+const Enterprise = () => import('../views/Enterprise.vue')
+const CrossBorder = () => import('../views/CrossBorder.vue')
 
 Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/',
+    path: '/icbc',
     name: 'Home',
-    component: Home
+    component: Home,
+    meta:{
+      title:"粤港澳大湾区馆"
+    }
   },
   {
-    path: '/about',
-    name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    path: '/icbc/enterprise',
+    name: 'Enterprise',
+    component: Enterprise
+  },
+  {
+    path: '/icbc/crossBorder',
+    name: 'CrossBorder',
+    component: CrossBorder
+  },
+  {
+      path:"*",  //除了配置页面以外的所以路径
+      // redirect:"/home"  //  任何没有写过的路径 都会重定向到这个页面
+      redirect(to){
+         if(to.path == '/icbc'){
+             return 'home'
+         }else {
+             return {name:'Home'}
+         }
+      }
   }
 ]
 
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
+  linkActiveClass:"active",      //重置  router-link-active   class名称
+  linkExactActiveClass:"exact", //重置  router-link-exact-active   class名称
   routes
 })
 
