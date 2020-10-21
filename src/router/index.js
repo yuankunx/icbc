@@ -10,20 +10,20 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/icbc',
+    path: '/icbc/en/',
     name: 'Home',
     component: Home,
     meta:{
-      title:"粤港澳大湾区馆"
+      title:"Guangdong-Hong Kong-Marco Greater Bay Area Hall"
     }
   },
   {
-    path: '/icbc/enterprise',
+    path: '/icbc/en/enterprise',
     name: 'Enterprise',
     component: Enterprise
   },
   {
-    path: '/icbc/crossBorder',
+    path: '/icbc/en/crossBorder',
     name: 'CrossBorder',
     component: CrossBorder
   },

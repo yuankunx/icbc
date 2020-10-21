@@ -3,9 +3,9 @@
     <div class="kht-banner"></div>
     <div class="box">
       <div class="icbc-nav">
-        <router-link tag="div" class="nav-box" to="/icbc">★  Products ★</router-link>
-        <router-link tag="div" class="nav-box" to="/icbc/enterprise">★ Companies ★</router-link>
-        <router-link tag="div" class="nav-box" to="/icbc/crossBorder">★ Cross Border Collection ★</router-link>
+        <router-link tag="div" class="nav-box" to="/icbc/en/">★  Products ★</router-link>
+        <router-link tag="div" class="nav-box" to="/icbc/en/enterprise">★ Companies ★</router-link>
+        <router-link tag="div" class="nav-box" to="/icbc/en/crossBorder">★ Cross Border Collection ★</router-link>
       </div>
       <router-view class="router-view" />
     </div>
