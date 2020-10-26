@@ -219,9 +219,9 @@ export default new Vuex.Store({
           logo:"http://badachina.com/icbc/static/img/logo-09.jpg"
         },
         right:{
-          name:"",
-          text:"",
-          logo:"http://badachina.com/icbc/static/img/bai.jpg"
+          name:"中鼎国源（深圳）电子商务有限公司",
+          text:"公司率先在珠宝首饰业推出【国V】标准，引领产业转型升级、环境保护、物联网应用、规划企业标准等，中国国家机构(以下名单)的市场化服务商。",
+          logo:"http://badachina.com/icbc/static/img/logo-10.jpg"
         },
         id:4
       },
