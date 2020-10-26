@@ -219,9 +219,9 @@ export default new Vuex.Store({
           logo:"http://badachina.com/icbc/static/img/logo-09.jpg"
         },
         right:{
-          name:"",
-          text:"",
-          logo:"http://badachina.com/icbc/static/img/bai.jpg"
+          name:"Zhongding Guoyuan (Shenzhen) Electronic Commerce Co., Ltd",
+          text:"The company took the lead in the jewelry industry to launch [national V] standards, leading industrial transformation and upgrading, environmental protection, the application of the Internet of things, planning enterprise standards and so on, the market-oriented service providers of Chinese state institutions (the following list).",
+          logo:"http://badachina.com/icbc/static/img/logo-10.jpg"
         },
         id:4
       },
