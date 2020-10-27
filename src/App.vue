@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="kht-banner">123</div>
+    <div class="kht-banner"></div>
     <div class="box">
       <div class="icbc-nav">
         <router-link tag="div" class="nav-box" to="/icbc">★ 产品展示 ★</router-link>

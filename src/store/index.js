@@ -267,116 +267,71 @@ export default new Vuex.Store({
         },
         {
             left:{
-                name:"江西天成逸品艺术发展有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-15.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004801"
-            },
-            right:{
                 name:"惠州市敏捷科技有限公司",
                 text:"公司是一家专业从事自动识别产品研发、生产、销售、移动设备研发生产、移动数据设备嵌入式软件、专业应用软件开发、行业应用系统集成和服务。 适用于不同行业、不同规模、不同信息化阶段的客户,主要产品有扫描枪、条码打印机、条码扫描枪、采集器配件等。 公司拥有国内最早从事条码扫描设备设计应用的多名工程师,年产能15万支条码扫描器的专业制造商。",
                 logo:"http://badachina.com/icbc/static/img/logo-16.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004803"
             },
-            id:6
-        },
-        {
-            left:{
+            right:{
                 name:"深圳市忻毅科技有限公司",
                 text:"公司成立于2010年，国家高新科技企业，拥有多年图像视频产品及移动穿戴AI 产品研发制造的实践经验，并在相关领域取得多项发明专利、实用新型、软件著作、外观专利以及国内外商标与认证等知识产权，技术领域涉及人工智能，大数据，云计算与边缘计算等物联网多维度多层次应用，产品应用并赋能于众多行业的智慧升级，如大数安保，智慧物流，3D网购，远程医疗，实时场景教育，实景导航，等行业应用。",
                 logo:"http://badachina.com/icbc/static/img/logo-17.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004823"
             },
-            right:{
+            id:6
+        },
+        {
+            left:{
                 name:"东莞市森德电子有限公司",
                 text:"公司是一家集研发，生产于一体的综合性公司。主要生产各种型号PC电脑电源,服务器电源,车载电脑电源,便携式电脑电源测试器及相关外围设备。公司秉承\"以人为本，品质第一”的经营理念，期待与全国各地贸易公司和外商建立长久的合作关系，，为新老客户提供极具竞争力的多功能产品。",
                 logo:"http://badachina.com/icbc/static/img/logo-18.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004859"
             },
-            id:7
-        },
-        {
-            left:{
+            right:{
                 name:"九牧（厦门）建材有限公司",
                 text:"九牧集团有限公司创立于1990年，总部位于海峡西岸经济区福建泉州，并在厦门设立运营中心，目前拥有5大生产基地、16个工厂，十多家子公司，全球拥有专卖店超过4000家，50000多个销售网点，累计销量超过10亿件。是一家集研发、生产、销售、服务于一体的大型卫浴企业。",
                 logo:"http://badachina.com/icbc/static/img/logo-19.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004860"
             },
-            right:{
+            id:7
+        },
+        {
+            left:{
                 name:"东莞清溪利得威电子科技有限公司",
                 text:"公司是原东莞清溪利得威电子厂就地转型的独资企业，分别在香港、台湾、美国均有注册公司，公司势力强大，曾属东莞500强。\n" +
                 "公司位于中国最美小镇-清溪镇荔横村康怡路利得威工业园，园内花草树木郁郁葱葱，四季花团锦簇。园外高速互通6个，最近的清溪大道清溪收费站不到两公里。",
                 logo:"http://badachina.com/icbc/static/img/logo-20.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004881"
             },
-            id:8
-        },
-        {
-            left:{
+            right:{
                 name:"东莞通翔数码科技有限公司",
                 text:"公司是一家集研发、制造、系统集成和服务于一体的高科技技术企业。产品涵盖智能停车场系统、智能通道系统、智能门禁系统、智能电梯管理系统、智能考勤系统、智能消费/会所POS系统、智能巡更系统。在电子信息技术、出入口控制设施、智能管理软件、专业服务等领域都确立了领先地位。",
                 logo:"http://badachina.com/icbc/static/img/logo-21.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004975"
             },
-            right:{
+            id:8
+        },
+        {
+            left:{
                 name:"深圳市岦泰科技有限公司",
                 text:"公司成立于2009年，是一家集研发、生产、销售为一体的高新技术企业，拥有先进的生产设备3800多平方米，其中，300平方米被分配给洁净室。我们成立于深圳，面向世界，在各级政府和企业的支持和重视下，在技术和质量上不断发展。探索、适应科学高效的管理体制，营造鲜明特色、开放包容的企业文化环境，形成了一支集科研、生产、销售、服务等方面优秀员工为一体的精英团队。在技术创新、制造、市场开拓、技术服务等方面实现了跨越式发展，形成了各具特色。",
                 logo:"http://badachina.com/icbc/static/img/logo-22.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004982"
             },
-            id:9
-        },
-        {
-            left:{
+            right:{
                 name:"深圳市飞马祥龙实业有限公司",
                 text:"公司是全球领先的龙泉青瓷产品和服务供应商。龙泉青瓷始于五代，宋元时期达到顶峰，一直延续到明清时期。它是中国青瓷历史上最长、规模最大的窑户。我们竭诚欢迎国内外客户建立业务关系。我们非常感谢您真诚的询问，以达到互利共赢，共创美好未来。",
                 logo:"http://badachina.com/icbc/static/img/logo-23.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004983"
             },
-            right:{
-                name:"深圳市恒美瑞实业有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-24.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005232"
-            },
-            id:10
+            id:9
         },
         {
             left:{
-                name:"深圳荣金珠宝有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-25.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005556"
-            },
-            right:{
-                name:"深圳市正德福珠宝首饰有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-26.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005557"
-            },
-            id:11
-        },
-        {
-            left:{
-                name:"长春新钰经贸集团股份公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-27.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005558"
-            },
-            right:{
                 name:"深圳市宝源昌珠宝有限公司",
                 text:"我们致力于为每一位客户提供最优质的产品，最实惠的价格，最周到的服务。",
                 logo:"http://badachina.com/icbc/static/img/logo-28.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005621"
-            },
-            id:12
-        },
-        {
-            left:{
-                name:"北京果然智享信息技术有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-29.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005689"
             },
             right:{
                 name:"四川优品云商科技有限公司",
@@ -384,104 +339,30 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-30.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005771"
             },
-            id:13
+            id:10
         },
         {
             left:{
-                name:"长沙湘欧通供应链有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-31.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005933"
-            },
-            right:{
                 name:"深圳市梵贝琳珠宝有限公司",
                 text:"梵贝琳珠宝有限公司是集，设计，生产，加工为一体的大型珠宝企业，为国内知名珠宝品牌提供多元化的供应链服务。",
                 logo:"http://badachina.com/icbc/static/img/logo-32.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005974"
             },
-            id:14
-        },
-        {
-            left:{
-                name:"深圳欣盈黄金实业有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-33.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005991"
-            },
             right:{
-                name:"深圳市徐福金珠宝有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-34.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005980"
-            },
-            id:15
-        },
-        {
-            left:{
                 name:"深圳市宝诗瑞珠宝首饰有限公司",
                 text:"宝诗瑞珠宝做为深圳南洋恒信旗下零售批发品牌，为电商及零售服务，主营银饰品及其它贵金属批发零售！ ",
                 logo:"http://badachina.com/icbc/static/img/logo-35.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=006021"
             },
-            right:{
+            id:11
+        },
+
+        {
+            left:{
                 name:"厦门理昂电子商务有限公司",
                 text:"理昂珠宝是理昂黄金公司（成立于2006年）的全资子公司，主营珠宝首饰，竭诚向国内外客户提供货品种类繁多、款式新颖独特、极具个性魅力的各式精美珠宝首饰。 ",
                 logo:"http://badachina.com/icbc/static/img/logo-36.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=006022"
-            },
-            id:16
-        },
-        {
-            left:{
-                name:"东莞市享昱家具有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-37.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004675"
-            },
-            right:{
-                name:"东莞市童星婴儿用品有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-38.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004692"
-            },
-            id:17
-        },
-        {
-            left:{
-                name:"深圳市豪森瑞尔国际贸易有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-39.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004729"
-            },
-            right:{
-                name:"深圳市盛康文化产业投资有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-40.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004732"
-            },
-            id:18
-        },
-        {
-            left:{
-                name:"东莞市双旺五金塑胶有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-41.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004733"
-            },
-            right:{
-                name:"广州老羊网络科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-42.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004748"
-            },
-            id:19
-        },
-        {
-            left:{
-                name:"南昌市均策服饰有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-43.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004758"
             },
             right:{
                 name:"深圳市倍轻松科技股份有限公司",
@@ -489,74 +370,14 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-44.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004759"
             },
-            id:20
+            id:12
         },
         {
             left:{
-                name:"惠州市易泽电子商务有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-45.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004768"
-            },
-            right:{
-                name:"深圳市优创造电子科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-46.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004776"
-            },
-            id:21
-        },
-        {
-            left:{
-                name:"惠州好运宝贸易有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-47.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004777"
-            },
-            right:{
-                name:"深圳市欧度利方科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-48.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004778"
-            },
-            id:22
-        },
-        {
-            left:{
-                name:"广州念朵化妆品有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-49.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004802"
-            },
-            right:{
                 name:"深圳圣文古法净水科技实业有限公司",
                 text:"深圳圣文古法净水器由外筒和内衬组成。由药用石、冰川石等20多种天然矿物制成。每一步都是手工做的。",
                 logo:"http://badachina.com/icbc/static/img/logo-50.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004824"
-            },
-            id:23
-        },
-        {
-            left:{
-                name:"东莞市欣鸿婴幼儿用品有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-51.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004826"
-            },
-            right:{
-                name:"惠州市瑾轩电子商务有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-52.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004834"
-            },
-            id:24
-        },
-        {
-            left:{
-                name:"深圳市鑫富田数码科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-53.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004857"
             },
             right:{
                 name:"深圳能源物流有限公司",
@@ -564,7 +385,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-54.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004884"
             },
-            id:25
+            id:13
         },
         {
             left:{
@@ -574,162 +395,12 @@ export default new Vuex.Store({
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004885"
             },
             right:{
-                name:"深圳市欧兔智能科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-56.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004913"
-            },
-            id:26
-        },
-        {
-            left:{
-                name:"东莞市锄禾实业有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-57.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004914"
-            },
-            right:{
-                name:"深圳市博斯达贸易有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-58.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004937"
-            },
-            id:27
-        },
-        {
-            left:{
-                name:"深圳市大鳄生物科技股份有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-59.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004963"
-            },
-            right:{
-                name:"大连齐澳贸易有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-60.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004977"
-            },
-            id:28
-        },
-        {
-            left:{
-                name:"恒安实业控股有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-61.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004991"
-            },
-            right:{
-                name:"科尼亚克国际贸易（上海）有限公司 ",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-62.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004996"
-            },
-            id:29
-        },
-        {
-            left:{
-                name:"西安绿之星贸易有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-63.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005002"
-            },
-            right:{
-                name:"佛山市匠品科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-64.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005008"
-            },
-            id:30
-        },
-        {
-            left:{
-                name:"深圳市苏菲雅贸易有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-65.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005087"
-            },
-            right:{
-                name:"深圳市粤美家庭用品有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-66.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005096"
-            },
-            id:31
-        },
-        {
-            left:{
-                name:"瑞安市名都洁具有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-67.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005105"
-            },
-            right:{
-                name:"新疆疆小驴特色农业科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-68.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005124"
-            },
-            id:32
-        },
-        {
-            left:{
-                name:"江西黄岗山茶业发展有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-69.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005233"
-            },
-            right:{
-                name:"广元万农合创科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-70.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005576"
-            },
-            id:33
-        },
-        {
-            left:{
-                name:"深圳市宝值珠宝有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-71.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005577"
-            },
-            right:{
-                name:"四川川野食品有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-72.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005604"
-            },
-            id:34
-        },
-        {
-            left:{
-                name:"万源市京源现代农业科技有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-73.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005612"
-            },
-            right:{
-                name:"金阳天地精华青花椒白魔芋农民专业合作社",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-74.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005614"
-            },
-            id:35
-        },
-        {
-            left:{
-                name:"深圳九州里电商有限公司",
-                text:"",
-                logo:"http://badachina.com/icbc/static/img/logo-75.jpg",
-                url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005721"
-            },
-            right:{
                 name:"",
                 text:"",
                 logo:"http://badachina.com/icbc/static/img/bai.jpg",
                 url:""
             },
-            id:36
+            id:14
         }
     ]
   },
