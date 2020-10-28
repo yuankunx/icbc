@@ -164,12 +164,14 @@ export default new Vuex.Store({
         left:{
           name:"Shenzhen BADA Logistics Co",
           text:"Shenzhen BADA Logistics Co., Ltd(BADA), formerly known as Shenzhen Foreign Trade and Development Company, was established in 1987. It is a new e-commerce supply chain service company with internet plus foreign trade, a pilot enterprise of comprehensive foreign trade service in Guangdong Province, a key foreign trade enterprise in Shenzhen, anExpress enterprise of Shenzhen government, and a senior certification enterprise of customs AEO.",
-          logo:"http://badachina.com/icbc/static/img/logo-01.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-01.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004653"
         },
         right:{
           name:"Beijing Xinku Network Technology Co",
           text:"Beijing Xinku Network Technology Co., Ltd. was established in 2011 with a registered capital of 10 million yuan. It is headquartered in Beijing, mainly engaged in software development, advertising promotion, sales and wholesale of mobile communication products.",
-          logo:"http://badachina.com/icbc/static/img/logo-02.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-02.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004978"
         },
         id:0
       },
@@ -177,12 +179,14 @@ export default new Vuex.Store({
         left:{
           name:"Nanjiang County Mt.GuangwuForestry Co",
           text:"The Nanjiang County Mt. GuangwuForestry Co., Ltd. is a modern agricultural enterprise that integrates planting, production, research, and sales with the entire industrial chain. The company specializes in developing rare plants -- cultivating Cyclocarya paliurus and Phyllostachys chinensis as oil crops,and conducting research, development, and production oftheir biological products.",
-          logo:"http://badachina.com/icbc/static/img/logo-03.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-03.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005615"
         },
         right:{
           name:"Shenzhen Lexiang Umbrella Industry Co",
           text:"Shenzhen Lexiang Umbrella Industry Co., Ltd. sells wholesale umbrellas to the consumer market and enjoys a high position among consumers. The company has established long-term and stable cooperative relations with many retailers and agents.  Shenzhen Lexiang Umbrella Industry Co., Ltd. distributes a wide range of umbrellas with reasonable prices.  Shenzhen Lexiang Umbrella Industry Co., Ltd. ",
-          logo:"http://badachina.com/icbc/static/img/logo-04.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-04.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004779"
         },
         id:1
       },
@@ -190,12 +194,14 @@ export default new Vuex.Store({
         left:{
           name:"Sichuan Liangyuan Food Co",
           text:"Sichuan Liangyuan Food Co., Ltd. is located in Dongyu Industrial Park, Nanjiang County, Bazhong City, Sichuan Province. The company takes Nanjiang, Sichuan, one of the top five high-quality walnut producing areas in China, as the raw material collection place, and focuses on the development of high-end walnut products of the whole series. With a total investment of 200 million yuan, the project covers an area of 30 mu and is divided into three phases. At present, two wood oil production lines have been completed.",
-          logo:"http://badachina.com/icbc/static/img/logo-05.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-05.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005605"
         },
         right:{
           name:"Shenzhen Ruidatong Supply Chain Co",
           text:"Shenzhen Ruidatong Supply Chain Co., Ltd is a professional enterprise who devotes to the integration of supply chain. With flexible alliance strategies, the company is in alliance with each excellent manufacturing enterprise and is providing quality product customization service to overseas buyers. Company’s current products mainly include electronics and packaging & printing products.",
-          logo:"http://badachina.com/icbc/static/img/logo-06.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-06.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004721"
         },
         id:2
       },
@@ -203,12 +209,14 @@ export default new Vuex.Store({
         left:{
           name:"Taiyi Honey Industry Co",
           text:"Taiyi Honey Industry Co., Ltd is located in Wanyuan City; it is an innovative enterprise integrated the protection of bee germplasm resources, beekeeping training, production and sales of honeybee. The company supplies natural and healthy honey products.",
-          logo:"http://badachina.com/icbc/static/img/logo-07.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-07.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005611"
         },
         right:{
           name:"Shenzhen Xiongsheng Import and Export Co",
           text:"Shenzhen Xiongsheng Import and Export Co. , Ltd. is a collection of ecology, grading, inspection, warehousing and sales of eggs of integrated private enterprises. Since the company was founded, the company has been adhering to the quality first, user first, reputation-oriented, focus on management purposes, long-term supply of high-quality eggs for Hong Kong and Macao, has been unanimously praised by our customers.",
-          logo:"http://badachina.com/icbc/static/img/logo-08.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-08.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005924"
         },
         id:3
       },
@@ -216,12 +224,14 @@ export default new Vuex.Store({
         left:{
           name:"Brief Introduction ofYunyang Yunshan Agricultural Development Co",
           text:"“The three gorges gerbera” of Yunshan Agriculture is produced by national organic chrysanthemum comprehensive cultivation standardized demonstration in Yunyang county, Chongqin. Located in 30 degrees north latitude, the production area of “The three gorges gerbera” is richly endowed by nature, it is generally grow in the altitude of 600-1200 meters with rich soil, rainwater and sunshine, which organically certificated by China, European Union, America and Japan.",
-          logo:"http://badachina.com/icbc/static/img/logo-09.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-09.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005821"
         },
         right:{
           name:"Zhongding Guoyuan (Shenzhen) Electronic Commerce Co., Ltd",
           text:"The company took the lead in the jewelry industry to launch [national V] standards, leading industrial transformation and upgrading, environmental protection, the application of the Internet of things, planning enterprise standards and so on, the market-oriented service providers of Chinese state institutions (the following list).",
-          logo:"http://badachina.com/icbc/static/img/logo-10.jpg"
+          logo:"http://badachina.com/icbc/static/img/logo-10.jpg",
+            url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005559"
         },
         id:4
       },
