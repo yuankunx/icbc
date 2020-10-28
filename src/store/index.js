@@ -248,7 +248,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-12.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004722"
             },
-            id:4
+            id:5
         },
         {
             left:{
@@ -263,7 +263,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-14.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004728"
             },
-            id:5
+            id:6
         },
         {
             left:{
@@ -278,7 +278,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-17.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004823"
             },
-            id:6
+            id:7
         },
         {
             left:{
@@ -293,7 +293,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-19.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004860"
             },
-            id:7
+            id:8
         },
         {
             left:{
@@ -309,7 +309,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-21.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004975"
             },
-            id:8
+            id:9
         },
         {
             left:{
@@ -324,7 +324,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-23.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004983"
             },
-            id:9
+            id:10
         },
         {
             left:{
@@ -339,7 +339,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-30.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=005771"
             },
-            id:10
+            id:11
         },
         {
             left:{
@@ -354,7 +354,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-35.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=006021"
             },
-            id:11
+            id:12
         },
 
         {
@@ -370,7 +370,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-44.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004759"
             },
-            id:12
+            id:13
         },
         {
             left:{
@@ -385,7 +385,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/logo-54.jpg",
                 url:"https://trade.icbc.com.cn/shopstore/b2bshopindex.jhtml?shopId=004884"
             },
-            id:13
+            id:14
         },
         {
             left:{
@@ -400,7 +400,7 @@ export default new Vuex.Store({
                 logo:"http://badachina.com/icbc/static/img/bai.jpg",
                 url:""
             },
-            id:14
+            id:15
         }
     ]
   },
