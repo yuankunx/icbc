@@ -2,17 +2,17 @@
 <div class="icbc-box">
     <div class="icbc-enterprise" v-for="item in enterprise" :key="item.id">
         <div class="enterprise-box g-f-l">
-            <img :src="item.left.logo" alt="">
+            <a :href="item.left.url" target="_blank"><img :src="item.left.logo" alt=""></a>
             <div class="enterprise-text">
-                <h1>{{item.left.name}}</h1>
-                <p>{{item.left.text}}</p>
+                <h1><a :href="item.left.url" target="_blank">{{item.left.name}}</a></h1>
+                <p>{{item.left.text}}</a></p>
             </div>
         </div>
         <div class="enterprise-line"></div>
         <div class="enterprise-box g-f-r">
-            <img :src="item.right.logo" alt="">
-            <div class="enterprise-text">
-                <h1>{{item.right.name}}</h1>
+            <a :href="item.right.url" target="_blank"><img :src="item.right.logo" alt=""></a>
+            <div class="enterprise-text">{{item.right.url}}
+                <h1><a :href="item.right.url" target="_blank">{{item.right.name}}</a></h1>
                 <p>{{item.right.text}}</p>
             </div>
         </div>
