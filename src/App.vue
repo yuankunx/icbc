@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <div class="kht-banner"></div>
+    <div class="kht-banner">
+        <div class="language"><a href="http://www.badachina.com/icbc/">中文</a><em>/</em><span>English</span></div>
+    </div>
     <div class="box">
       <div class="icbc-nav">
         <router-link tag="div" class="nav-box" to="/icbc/en/">★  Products ★</router-link>
@@ -63,4 +65,16 @@ export default {
   margin: 0 10px;
   color: #c6c6c6;
 }
+.language{
+    width: 1200px;
+    height: 50px;
+    margin:auto;
+    text-align: right;
+    padding-top: 45px;
+    font-size: 24px;
+    color: #fff;
+}
+.language a{color: #fff;}
+.language span{color: #ffc29f;}
+.language em{padding: 0 10px;}
 </style>
